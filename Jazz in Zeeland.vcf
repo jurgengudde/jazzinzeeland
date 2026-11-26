@@ -10,7 +10,7 @@ VERSION:3.0
 N:Kapel;Martijn;;;
 FN:Martijn Kapel
 ORG:Zeeland Jazz Festival
-TITLE:Voorzitter Zeeland Jazz Festival
+TITLE:Voorzitter
 EMAIL:martijn@zeelandjazz.nl
 END:VCARD
 BEGIN:VCARD
@@ -18,7 +18,7 @@ VERSION:3.0
 N:Zuiderbaan;Hans;;;
 FN:Hans Zuiderbaan
 ORG:Porgy & Bess;Zeeland Jazz
-TITLE:Porgy & Bess en programmeur Zeeland Jazz
+TITLE:Programmeur Porgy & Bess en Zeeland Jazz
 EMAIL:hanszuiderbaan@porgyenbess.nl
 END:VCARD
 BEGIN:VCARD
@@ -42,7 +42,7 @@ VERSION:3.0
 N:de Vos;Wendy;;;
 FN:Wendy de Vos
 ORG:Toonbeeld
-TITLE:Hoofd afdeling muziek Toonbeeld
+TITLE:Hoofd afdeling muziek
 EMAIL:w.devos@toonbeeld.nl
 END:VCARD
 BEGIN:VCARD
@@ -50,7 +50,7 @@ VERSION:3.0
 N:Gudde;Jurgen;;;
 FN:Jurgen Gudde
 ORG:Podium aan Schouwen;Zierikzee Jazz Festival;Brogum;CASD
-TITLE:Podium aan Schouwen, Zierikzee Jazz Festival, Brogum, CASD
+TITLE:ondernemer, creatief producent en programmeur
 EMAIL:jurgen@podiumaanschouwen.nl
 END:VCARD
 BEGIN:VCARD
@@ -58,7 +58,7 @@ VERSION:3.0
 N:de Kerf;Rob;;;
 FN:Rob de Kerf
 ORG:Porgy & De Pit
-TITLE:Algemeen coördinator Porgy & De Pit
+TITLE:Algemeen coördinator
 EMAIL:robdk@porgyenpit.nl
 END:VCARD
 BEGIN:VCARD
@@ -74,6 +74,6 @@ VERSION:3.0
 N:van der Ploeg;Nynke;;;
 FN:Nynke van der Ploeg
 ORG:Toonbeeld
-TITLE:Directeur-Bestuurder Toonbeeld
+TITLE:Directeur-Bestuurder
 EMAIL:n.vanderploeg@toonbeeld.nl
 END:VCARD
